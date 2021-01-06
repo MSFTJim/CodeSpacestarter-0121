@@ -4,15 +4,12 @@
 	//"image": "mcr.microsoft.com/dotnet/core/sdk:3.1-bionic",	
 	// "forwardPorts": [5100, 5200], 
 	"extensions": [
-	
-	"eamodio.gitlens",
-	
-	"github.vscode-pull-request-github",
-	
-	"mhutchie.git-graph",
-	
-	"ms-vsliveshare.vsliveshare", 
-	
+		"eamodio.gitlens",
+		"github.vscode-pull-request-github",
+		"mhutchie.git-graph",
+		"ms-vsliveshare.vsliveshare",
+		"ms-dotnettools.csharp",
+		"ms-vscode.azure-account"
 	],
 	//current default CS has everything needed so no extra items to install at this time 1-6-21 
 	//    "dockerFile": "Dockerfile",
