@@ -5,8 +5,7 @@
 	// "forwardPorts": [5100, 5200], 
 	"extensions": [
 		"eamodio.gitlens",
-		"github.vscode-pull-request-github",
-		"mhutchie.git-graph",
+		"github.vscode-pull-request-github",		
 		"ms-vsliveshare.vsliveshare",
 		"ms-dotnettools.csharp",
 		"ms-vscode.azure-account"
